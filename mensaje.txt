@@ -4,5 +4,7 @@ Brian Blanco tiene 24 años y nacio en Argentina.
 
 Mañana nos enfocaremos en su vida laboral y emocional. 
 
+Estudia kotlin para desarrollar en android.
+
 
 
