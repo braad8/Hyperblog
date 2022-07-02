@@ -3,10 +3,7 @@ Esta es la historia de Brian Blanco.
 Brian Blanco tiene 24 años y nacio en Argentina.
         
 Mañana nos  enfocaremos en su vida laboral y emocional.
-
-Mi nombre es clonBruh y tengo tambien 24 años, estudio kotlin tambien.
-
 Estudia kotlin para desarrollar en android.
 
-
+Braadgit es una persona que contribuye a este proyecto open source y nacio en Intenet.
 
